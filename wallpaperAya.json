@@ -6,17 +6,17 @@
   
  "AdsController": {
       
-    "BannerNetwork"           : "yandex",
-    "InterstitialNetwork"     : "yandex",
-    "NativeNetwork"           : "yandex",
-    "OpenAdNetwork"           : "yandex",
+    "BannerNetwork"           : "admob",
+    "InterstitialNetwork"     : "admob",
+    "NativeNetwork"           : "admob",
+    "OpenAdNetwork"           : "admob",
    
     "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
-    "AdMob_OpenAd"            : "ca-app-pub-3940256099942544/9257395921",
+    "AdMob_Banner"            : "ca-app-pub-5079091584646648/7510793856",
+    "AdMob_InterstitialAd"    : "ca-app-pub-5079091584646648/3011810487",
+    "AdMob_Native"            : "ca-app-pub-5079091584646648/4146263919",
+    "AdMob_OpenAd"            : "ca-app-pub-5079091584646648/9385647147",
     
     "Applovin_Banner"         : "a5f235ba1320fb35",
     "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
