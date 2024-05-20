@@ -1,15 +1,15 @@
 {
   "appRedirect": {
     "status"      : true,
-    "redirectURL" : "https://play.google.com/store/apps/details?id=com.casestandoff.caseopening.casegun"
+    "redirectURL" : "https://play.google.com/store/apps/details?id=com.stadoff.walstandoff"
   },
   
  "AdsController": {
       
-    "BannerNetwork"           : "admob",
-    "InterstitialNetwork"     : "admob",
-    "NativeNetwork"           : "admob",
-    "OpenAdNetwork"           : "admob",
+    "BannerNetwork"           : "yandex",
+    "InterstitialNetwork"     : "yandex",
+    "NativeNetwork"           : "yandex",
+    "OpenAdNetwork"           : "yandex",
    
     "IntervalClick"           : 1,
     
